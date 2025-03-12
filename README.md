@@ -3,15 +3,28 @@
 
 - Email para contato: nataliadiasfernande@gmail.com
 - [Linkedln](https://www.linkedin.com/in/natalia-fernandes-3b698122a/)
+- [Github](https://github.com/natdfernandes)
 
 ### Competências
 - Python
 - Linguagem C
 - Html
 - Css
+- JavaScript
+- Php
+- PostgreSQL
 - Git
+- Metodologias 
+de desenvolvimento ágil. 
 
 ### Portfólio
+
+### [Site Android](https://natdfernandes.github.io/html/desafios/desafio10-android/home.html)
+Esse site foi desenvolvido e inspirado atráves do Curso em Vídeo pelo Professor Gustavo Guanabara, eu me inspirei no conteúdo educativo dele e fiz a minha primeira versão de estudos para expandir meus conhecimentos e aprendizados, estou em constante evolução e progresso em desenvolvimento Web.
+O site foi desenvolvido com Html e Css.
+![Primeira parte site android](https://github.com/user-attachments/assets/e33f3339-ac4d-4c03-bb81-763605a2ef20)
+
+
 
 #### [Receita a la web](https://github.com/natdfernandes/receitas-la-web)
 Esse site de receitas foi desenvolvido para que os usuários adicionem receitas detalhadamente com passo a passo, tempo de preparo, lista de ingredientes, separando por topicos como salgado, doce, bebidas, e receitas temáticas.
